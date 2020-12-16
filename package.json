@@ -1,0 +1,24 @@
+{
+  "name": "sponsorware-github",
+  "version": "0.1.0",
+  "description": "<h1 align=\"center\"><br/><br/>Sponsorware for Github<br/><br/></h1> <h4 align=\"center\">A small web server that automates the process of granting someone access to one or more private repositories after sponsoring your on Github.</h4>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neutron-Creative/Sponsorware-Github.git"
+  },
+  "author": "Neutron Creative Inc.",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Neutron-Creative/Sponsorware-Github/issues"
+  },
+  "homepage": "https://github.com/Neutron-Creative/Sponsorware-Github#readme",
+  "dependencies": {
+    "@octokit/core": "^3.2.4",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
