@@ -22,6 +22,7 @@
 </p>
 
 <p align="center">
+    <a href="#prerequisites">Pre-requisites</a> •
 	<a href="#get-started">Get started</a> •
 	<a href="#documenation">Documentation</a> •
 	<a href="#related">Related</a> •
@@ -29,6 +30,19 @@
 	<a href="#license">License</a>
 </p>
 <img src="assets/github-banner.png"/>
+
+<br>
+<h2 id="prerequisites">Pre-requisites</h2>
+
+To deploy Sponsorware for Github on your projects, you'll need the following (all free, no credit card required).
+
+- A Netlify account (https://netlify.com)
+- A Github account (https://github.com)
+- A Github personal access token ([Read more](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token))
+- A public Github sponsors profile
+- One or more private Github repositories to sell access to
+
+<br>
 
 <br>
 <h2 id="get-started">Get started</h2>
