@@ -19,6 +19,9 @@
   "dependencies": {
     "@octokit/core": "^3.2.4",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1"
+    "chalk": "^4.1.0",
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.17",
+    "prompts": "^2.4.0"
   }
 }
