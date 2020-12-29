@@ -1,6 +1,6 @@
 {
   "name": "sponsorware-github",
-  "version": "0.1.0",
+  "version": "0.4.0",
   "description": "<h1 align=\"center\"><br/><br/>Sponsorware for Github<br/><br/></h1> <h4 align=\"center\">A small web server that automates the process of granting someone access to one or more private repositories after sponsoring your on Github.</h4>",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
     "chalk": "^4.1.0",
     "express": "^4.17.1",
     "nodemailer": "^6.4.17",
+    "nodemailer-mailgun-transport": "^2.0.2",
     "prompts": "^2.4.0"
   }
 }
