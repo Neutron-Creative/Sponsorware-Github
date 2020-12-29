@@ -19,7 +19,7 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
     }
 
     // Extract params from event body
-    let params = event.queryStringParameters;
+    let params = JSON.parse(event.body);
 
     // If testing webhook, respond all good
     if(params.zen && params.zen == 'Speak like a human.') return { statusCode: 200, body: 'Testing - all good!'};
