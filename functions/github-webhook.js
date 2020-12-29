@@ -3,6 +3,8 @@
 */
 // Github API interface
 const { Octokit } = require("@octokit/core");
+// Lambda JSON
+import querystring from "querystring";
 
 /*
     Configure webhook
@@ -17,7 +19,7 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
     }
 
     // Extract params from event body
-    let params = JSON.parse(event.body);
+    let params = querystring.parse(event.body);
 
     // verify sponsorship
     // FIX LATER
