@@ -39,36 +39,44 @@ To deploy Sponsorware for Github on your projects, you'll need the following (al
 - A Netlify account (https://netlify.com)
 - A Github account (https://github.com)
 - A Github personal access token ([Read more](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token))
-- A public Github sponsors profile
-- One or more private Github repositories to sell access to
+- A public Github sponsors profile (https://github.com/sponsors)
+- A Github repositories to sell access to
 
 <br>
 
 <br>
 <h2 id="get-started">Get started</h2>
 
-> Coming soon
+Before we get started - double-check the pre-requisites in the previous section to ensure you're ready to go. Once we're certain, it's a quick and easy process to get started selling software on Github with the instructions below.
 
-<br>
-
-<h2 id="documentation">Documenation</h2>
-
-> Coming soon
+**1. Accept the invitation & fork the Sponsorship-Github repository**
+	<img src="./assets/get-started-01.gif"/>
+	<br><br>
+**2. Create a new website on Netlify, and set it to auto-deploy from your cloned repository**
+	<img src="./assets/get-started-02.gif"/>
+	<br><br>
+**3. Fill out the GITHUB_USER, GITHUB_REPO, and GITHUB_TOKEN environment variables on Netlify**
+	<img src="./assets/get-started-03.gif"/>
+	<br><br>
+**4. Rebuild & clear cache on Netlify**
+	<img src="./assets/get-started-04.gif"/>
+	<br><br>
+**5. Add your new Netlify webhook to your Github Sponsorship page**
+	<img src="./assets/get-started-05.gif"/>
+	<br><br>
+**6. You're ready to start selling on Github! 🥳**<br>
+	Make sure you tell people about your new sponsorware, and let people know what they're buying when they sponsor your profile!
 
 <br>
 
 <h2 id="related">Related</h2>
 
-> Coming soon
-
-<br>
-
-<h2 id="credits">Credits</h2>
-
-> Coming soon
+Have questions or need support? We're always able to answer any questions or help you however needed via email at [support@neutroncreative.com](mailto:support@neutroncreative.com) or via [Discord](https://discord.com/invite/3pBM4Px), with Discord being the quickest if you need urgent help.
 
 <br>
 
 <h2 id="license">License</h2>
 
-> Coming soon
+Copyright (C) 2020 Neutron Creative Inc. All rights reserve.
+
+Once Neutron Creative reaches 100 sponsors on Github Sponsors, Github Sponsorware will be open-sourced to the community under GPL v3+.
