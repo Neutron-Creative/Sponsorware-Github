@@ -20,6 +20,8 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
 
     // Extract params from event body
     let params = querystring.parse(event.body);
+    console.log('Params');
+    console.log(params);
 
     // verify sponsorship
     // FIX LATER
