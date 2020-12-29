@@ -4,7 +4,7 @@
 // Github API interface
 const { Octokit } = require("@octokit/core");
 // Lambda JSON
-import querystring from "querystring";
+const querystring = require('querystring');
 
 /*
     Configure webhook
