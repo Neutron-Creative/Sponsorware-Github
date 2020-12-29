@@ -22,6 +22,9 @@ const octokit = new Octokit({ auth: process.env.GITHUB_TOKEN });
     let params = querystring.parse(event.body);
     console.log('Params');
     console.log(params);
+    console.log('action');
+    console.log(params.action);
+    
 
     // verify sponsorship
     // FIX LATER
