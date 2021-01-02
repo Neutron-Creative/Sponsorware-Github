@@ -2,7 +2,7 @@
 <h4 align="center">Sponsorware for Github is a sponsorware library for selling sponsorware software on Github via Github sponsors.</h4>
 <p align="center">
 	<a href="https://github.com/Neutron-Creative/Singlelink/projects/1">
-		<img src="https://img.shields.io/badge/Work%20in%20progress-0.2.0-%2303d2d4" alt="Version">
+		<img src="https://img.shields.io/badge/Work%20in%20progress-1.0.0-%2303d2d4" alt="Version">
 	</a>
 	<a href="https://www.gnu.org/licenses/gpl-3.0.en.html">
 		<img src="https://img.shields.io/badge/license-Sponsorware, Pending GPL-%236ab04c" alt="License"/>
@@ -24,7 +24,7 @@
 <p align="center">
     <a href="#prerequisites">Pre-requisites</a> •
 	<a href="#get-started">Get started</a> •
-	<a href="#documenation">Documentation</a> •
+	<a href="#faq">Frequently Asked Questions</a> •
 	<a href="#related">Related</a> •
 	<a href="#credits">Credits</a> •
 	<a href="#license">License</a>
@@ -69,6 +69,16 @@ Before we get started - double-check the pre-requisites in the previous section 
 
 <br>
 
+<h2 id="faq">Frequently Asked Questions</h2>
+
+#### What if I can't get this setup?
+Contact Jim Bisenius via DM on [Discord](https://discord.com/invite/3pBM4Px)! I'd be happy to help get it installed personally 🤠
+
+#### What happens if I cancel my subscription?
+Great question! You can cancel your subscription at anytime and your repository privliges will be revoked and a final copy of the software for you to via before you lose access to all future updates. **TLDR: You just lose access to updates, your software will still work**
+
+<br>
+
 <h2 id="related">Related</h2>
 
 Have questions or need support? We're always able to answer any questions or help you however needed via email at [support@neutroncreative.com](mailto:support@neutroncreative.com) or via [Discord](https://discord.com/invite/3pBM4Px), with Discord being the quickest if you need urgent help.
@@ -77,6 +87,6 @@ Have questions or need support? We're always able to answer any questions or hel
 
 <h2 id="license">License</h2>
 
-Copyright (C) 2020 Neutron Creative Inc. All rights reserve.
+Copyright (C) 2020 Neutron Creative Inc. All rights reserved.
 
 Once Neutron Creative reaches 100 sponsors on Github Sponsors, Github Sponsorware will be open-sourced to the community under GPL v3+.
