@@ -71,11 +71,14 @@ Before we get started - double-check the pre-requisites in the previous section 
 
 <h2 id="faq">Frequently Asked Questions</h2>
 
+#### What about Github seats?
+Great question! If you don't have enough seats available under your Github organization to add a new outside collaborator, the API call will fail because Github won't all the invite to be generated. Always ensure you have a some extra seats allotted (1-10 depending on sales volume) to ensure this doesn't happen!
+
 #### What if I can't get this setup?
 Contact Jim Bisenius via DM on [Discord](https://discord.com/invite/3pBM4Px)! I'd be happy to help get it installed personally 🤠
 
 #### What happens if I cancel my subscription?
-Great question! You can cancel your subscription at anytime and your repository privliges will be revoked and a final copy of the software for you to via before you lose access to all future updates. **TLDR: You just lose access to updates, your software will still work**
+You can cancel your subscription at anytime and your repository privliges will be revoked and a final copy of the software for you to via before you lose access to all future updates. **TLDR: You just lose access to updates, your software will still work**
 
 <br>
 
